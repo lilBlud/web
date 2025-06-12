@@ -2,11 +2,10 @@
 ### Group F Members
 |     NAME      |   MATRIC NO.   |     TASK      | 
 | ------------- | ------------- | ------------- |
-|1. Maria Wardah binti Mohd Ghazali | 2218014 | Objectives, Travel Package |
-|2. Amir Mustaqim Bin Ismail  | 2218607 |  Features & Functionalities, Hotel, Prayer Space  |
-|3. Aisha Humairah binti Ahmad Adzuan  | 2219130  |  ERD, Login, Destinations & Flights   |
-|4. Siti Hajar 'Aainaa binti Hamid | 2218648  |    Title & Introduction, Restaurant |
-|5. Musanna Sarder Abdullah          | 2220429  |   Sequence Diagram        
+|1. Ahmad Azib Danish bin Ahmad Sanusi | 2222225 | Title & Introduction, Objectives, Travel Package |
+|2. Khan Md Mead  | 2221319 |  Features & Functionalities, Hotel, Restaurant, Prayer Space  |
+|3. Mohamad Adlan Syafiq bin Mohd Fauzi  | 2227229  |  ERD, Login,Sequence Diagram,Destinations & Flights   |
+      
 
 ### Title
 Taqwa Travels
